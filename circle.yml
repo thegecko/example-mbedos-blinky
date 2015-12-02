@@ -2,7 +2,7 @@ machine:
   services:
     - docker
   node:
-    version: 5.1.0
+    version: 4.0.0
 
 dependencies:
   post:
@@ -15,4 +15,4 @@ test:
 
 general:
   artifacts:
-    - test_results.json
+    - results
