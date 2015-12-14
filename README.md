@@ -54,6 +54,8 @@ Blinky is a simple example program that blinks an LED on an mbed-enabled board w
 
 [![seeedtinyble-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/seeedtinyble-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/seeedtinyble-gcc)
 
+[![st-nucleo-f091rc-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/st-nucleo-f091rc-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/st-nucleo-f091rc-gcc)
+
 [![st-nucleo-f401re-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/st-nucleo-f401re-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/st-nucleo-f401re-gcc)
 
 [![st-nucleo-f401re-st-ble-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/st-nucleo-f401re-st-ble-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/st-nucleo-f401re-st-ble-gcc)
