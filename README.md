@@ -2,11 +2,19 @@
 
 Blinky is a simple example program that blinks an LED on an mbed-enabled board with mbed OS.
 
+[![arch-ble-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/arch-ble-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/arch-ble-gcc)
+
+[![arch-link-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/arch-link-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/arch-link-gcc)
+
 [![atmel-samd21g18a-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/atmel-samd21g18a-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/atmel-samd21g18a-gcc)
+
+[![atmel-samg55j19-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/atmel-samg55j19-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/atmel-samg55j19-gcc)
 
 [![atmel-samr21g18a-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/atmel-samr21g18a-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/atmel-samr21g18a-gcc)
 
 [![bbc-microbit-classic-gcc-nosd](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/bbc-microbit-classic-gcc-nosd?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/bbc-microbit-classic-gcc-nosd)
+
+[![bbc-microbit-classic-gcc-s130](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/bbc-microbit-classic-gcc-s130?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/bbc-microbit-classic-gcc-s130)
 
 [![bbc-microbit-classic-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/bbc-microbit-classic-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/bbc-microbit-classic-gcc)
 
@@ -44,13 +52,23 @@ Blinky is a simple example program that blinks an LED on an mbed-enabled board w
 
 [![nordic-nrf51822-32k-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/nordic-nrf51822-32k-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/nordic-nrf51822-32k-gcc)
 
+[![nordic-nrf51822-gcc-unofficial-fota](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/nordic-nrf51822-gcc-unofficial-fota?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/nordic-nrf51822-gcc-unofficial-fota)
+
+[![nordic-nrf51822-gcc-unofficial-no-softdevice](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/nordic-nrf51822-gcc-unofficial-no-softdevice?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/nordic-nrf51822-gcc-unofficial-no-softdevice)
+
+[![nordic-nrf51822-gcc-unofficial](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/nordic-nrf51822-gcc-unofficial?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/nordic-nrf51822-gcc-unofficial)
+
 [![nordic-nrf51822-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/nordic-nrf51822-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/nordic-nrf51822-gcc)
 
 [![nrf51dk-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/nrf51dk-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/nrf51dk-gcc)
 
 [![nxp-lpc111x-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/nxp-lpc111x-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/nxp-lpc111x-gcc)
 
+[![nxp-lpc1768-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/nxp-lpc1768-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/nxp-lpc1768-gcc)
+
 [![nxpdk5-jn517x-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/nxpdk5-jn517x-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/nxpdk5-jn517x-gcc)
+
+[![redbearlab-nrf51822-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/redbearlab-nrf51822-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/redbearlab-nrf51822-gcc)
 
 [![seeedtinyble-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/seeedtinyble-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/seeedtinyble-gcc)
 
@@ -64,17 +82,25 @@ Blinky is a simple example program that blinks an LED on an mbed-enabled board w
 
 [![stk3700-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/stk3700-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/stk3700-gcc)
 
+[![stm32f4-disco-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/stm32f4-disco-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/stm32f4-disco-gcc)
+
+[![stm32f411e-disco-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/stm32f411e-disco-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/stm32f411e-disco-gcc)
+
 [![stm32f411re-nucleo-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/stm32f411re-nucleo-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/stm32f411re-nucleo-gcc)
 
 [![stm32f429i-disco-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/stm32f429i-disco-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/stm32f429i-disco-gcc)
 
 [![target-onsemi-ncs36510-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/target-onsemi-ncs36510-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/target-onsemi-ncs36510-gcc)
 
+[![tinyble-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/tinyble-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/tinyble-gcc)
+
 [![ublox-c029-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/ublox-c029-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/ublox-c029-gcc)
 
 [![ublox-odin-w2-evk-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/ublox-odin-w2-evk-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/ublox-odin-w2-evk-gcc)
 
 [![ublox-odin-w2-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/ublox-odin-w2-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/ublox-odin-w2-gcc)
+
+[![xdk110-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/xdk110-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/xdk110-gcc)
 
 ## What Blinky does
 
