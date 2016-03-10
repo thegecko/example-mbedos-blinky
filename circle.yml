@@ -6,7 +6,7 @@ machine:
 
 dependencies:
   post:
-    - docker pull mbed/yotta:cc-master-16
+    - docker pull mbed/yotta
     - npm install ARMmbed/yotta-target-tests
 
 test:
