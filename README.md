@@ -1,5 +1,7 @@
 # example-mbedos-blinky
 
+[![Circle CI](https://circleci.com/gh/thegecko/example-mbedos-blinky.svg?style=shield&circle-token=9e3ed29b999c9c0e1914adc0e00b95d0a95a36aa)](https://circleci.com/gh/thegecko/example-mbedos-blinky/)
+
 Blinky is a simple example program that blinks an LED on an mbed-enabled board with mbed OS.
 
 [![arch-ble-gcc](https://x1j4rqb9of.execute-api.us-west-2.amazonaws.com/badge/thegecko/example-mbedos-blinky/arch-ble-gcc?circle-token=29093fffa8e4086f715e03dd0e3a4c150ab09f9d)](http://yotta.mbed.com/#/target/arch-ble-gcc)
